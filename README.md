@@ -37,12 +37,9 @@ command to clone the files to your machine:
 
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-
-
-
 ## Authors
 
-👤 **Luis David Rodriguez Valades Missions section **
+👤 **Luis David Rodriguez Valades Missions **
 
 - GitHub: [@githubhandle](https://github.com/LuisDavidRodriguez)
 - LinkedIn: [profile](https://www.linkedin.com/in/luis-david-rodriguez-valades)
