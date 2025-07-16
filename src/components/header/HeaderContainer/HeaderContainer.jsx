@@ -14,13 +14,13 @@ const HeaderContainer = () => (
 
 const Message = () => (
   <div className={styles.welcomeMessage}>
-    <h3 className={styles.title}>Welcome to Beautiful-NASA</h3>
+    <h3 className={styles.title}>Welcome to Explore Beautiful - NASA</h3>
     <p
       className={styles.p1}
     >
-      This application allows you to connect with NASA API&amp;s
+      This application allows you to connect with NASA API&apos;s
     </p>
-    <p className={styles.p1}>Enjoyed the views and functionality</p>
+    <p className={styles.p1}>Enjoy the views and functionality</p>
     <p className={styles.p1}>
       Coded By
       {' '}
